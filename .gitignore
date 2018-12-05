@@ -1,0 +1,8 @@
+#exclude
+*.zip
+*.rar
+*.pptx
+*.tmp
+/Lecture Notes
+/Past Exams
+/Mid-sem Test
